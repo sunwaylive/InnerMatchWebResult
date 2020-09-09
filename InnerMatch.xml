@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<InnerGame Open="false" MatchID="17" AutoStart="true" NeedBroadcast="false" SendAllPlayerCfg="true" MaxBroadcastPlayerNum="50" BeginTime="2020-08-26 21:00:01">
+  <ScoreCfg>
+    <Score Rank="1" SPoint="6"/>
+    <Score Rank="2" SPoint="5"/>
+    <Score Rank="3" SPoint="4"/>
+    <Score Rank="4" SPoint="3"/>
+    <Score Rank="5" SPoint="2"/>
+    <Score Rank="6" SPoint="1"/>
+    <Score Rank="0" SPoint="0"/>
+  </ScoreCfg>
+  <RoundCfg>
+    <Round MapID="98" RaceGameType="4"/>
+    <Round MapID="2" RaceGameType="4"/>
+    <Round MapID="15" RaceGameType="4"/>
+    <Round MapID="48" RaceGameType="4"/>
+    <Round MapID="6" RaceGameType="9"/>
+    <Round MapID="99" RaceGameType="9"/>
+    <Round MapID="93" RaceGameType="9"/>
+  </RoundCfg>
+  <PlayerCfg Desc="only for search name">
+    <Player OpenID="1B23A869FA48A127E64BD6AB2F4AB19B" Name="archerwang" GroupID="1
+" IsAfk="false"/>
+    <Player OpenID="D28A2F1961F3238D8A02B2E974B5DD41" Name="aarontu" GroupID="1
+" IsAfk="false"/>
+  </PlayerCfg>
+</InnerGame>
