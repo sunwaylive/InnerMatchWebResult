@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<InnerMatch CurMatchID="17" CurRound="7">
+    <GroupInfo>
+        <Group GroupID="1" JoinRate="8571" Score="135" GroupPlayerNum="7" GroupJoinNum="42" />
+        <Group GroupID="2" JoinRate="8730" Score="180" GroupPlayerNum="9" GroupJoinNum="55" />
+        <Group GroupID="3" JoinRate="9000" Score="207" GroupPlayerNum="10" GroupJoinNum="63" />
+        <Group GroupID="4" JoinRate="7500" Score="109" GroupPlayerNum="8" GroupJoinNum="42" />
+        <Group GroupID="5" JoinRate="9365" Score="158" GroupPlayerNum="9" GroupJoinNum="59" />
+        <Group GroupID="6" JoinRate="7142" Score="201" GroupPlayerNum="14" GroupJoinNum="70" />
+        <Group GroupID="7" JoinRate="8051" Score="180" GroupPlayerNum="11" GroupJoinNum="62" />
+        <Group GroupID="8" JoinRate="8051" Score="168" GroupPlayerNum="11" GroupJoinNum="62" />
+        <Group GroupID="9" JoinRate="7857" Score="111" GroupPlayerNum="6" GroupJoinNum="33" />
+        <Group GroupID="10" JoinRate="6103" Score="138" GroupPlayerNum="11" GroupJoinNum="47" />
+        <Group GroupID="11" JoinRate="10000" Score="182" GroupPlayerNum="8" GroupJoinNum="56" />
+        <Group GroupID="12" JoinRate="6785" Score="106" GroupPlayerNum="8" GroupJoinNum="38" />
+        <Group GroupID="13" JoinRate="8928" Score="134" GroupPlayerNum="8" GroupJoinNum="50" />
+        <Group GroupID="14" JoinRate="7142" Score="205" GroupPlayerNum="14" GroupJoinNum="70" />
+        <Group GroupID="15" JoinRate="5714" Score="118" GroupPlayerNum="9" GroupJoinNum="36" />
+        <Group GroupID="16" JoinRate="3928" Score="52" GroupPlayerNum="8" GroupJoinNum="22" />
+        <Group GroupID="17" JoinRate="6285" Score="166" GroupPlayerNum="15" GroupJoinNum="66" />
+        <Group GroupID="18" JoinRate="10000" Score="350" GroupPlayerNum="15" GroupJoinNum="105" />
+        <Group GroupID="19" JoinRate="10000" Score="160" GroupPlayerNum="8" GroupJoinNum="56" />
+        <Group GroupID="20" JoinRate="5000" Score="26" GroupPlayerNum="2" GroupJoinNum="7" />
+        <Group GroupID="21" JoinRate="4142" Score="91" GroupPlayerNum="10" GroupJoinNum="29" />
+        <Group GroupID="0" JoinRate="0" Score="24" GroupPlayerNum="0" GroupJoinNum="7" />
+    </GroupInfo>
+    <PlayerInfo>
+        <Player UID="4905344149178272" Name="v_cdachen" Score="35" Application="true" Ready="false" GroupID="14" />
+        <Player UID="4905342380743108" Name="chancesong" Score="29" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4905343203495230" Name="zaimzhang" Score="29" Application="true" Ready="true" GroupID="11" />
+        <Player UID="4623864936833775" Name="v_jianxli" Score="28" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4623864695820991" Name="arthunliao" Score="28" Application="true" Ready="true" GroupID="3" />
+        <Player UID="4623864002066095" Name="seanxwang" Score="28" Application="true" Ready="false" GroupID="21" />
+        <Player UID="4623864904838132" Name="aarontu" Score="27" Application="true" Ready="false" GroupID="1" />
+        <Player UID="4623863720361693" Name="v_khhkding" Score="27" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4623864444883539" Name="harveyjin" Score="27" Application="true" Ready="true" GroupID="3" />
+        <Player UID="4623863879791963" Name="swainshi" Score="27" Application="true" Ready="false" GroupID="9" />
+        <Player UID="4905343075122374" Name="v_xkkxzheng" Score="27" Application="true" Ready="true" GroupID="19" />
+        <Player UID="4905344104017511" Name="hughzhou" Score="26" Application="true" Ready="true" GroupID="7" />
+        <Player UID="4905343685143623" Name="doshangguan" Score="26" Application="true" Ready="true" GroupID="15" />
+        <Player UID="4623863920117043" Name="v_xiangyu" Score="26" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4905343069141816" Name="liamwang" Score="26" Application="true" Ready="false" GroupID="20" />
+        <Player UID="4905342346416896" Name="v_kaihxiao" Score="26" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623863020749743" Name="silviaqu" Score="25" Application="true" Ready="false" GroupID="2" />
+        <Player UID="4623864279168049" Name="v_haoaluo" Score="25" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623864348179923" Name="flashshan" Score="25" Application="true" Ready="true" GroupID="3" />
+        <Player UID="4905343361450860" Name="peachyin" Score="25" Application="true" Ready="false" GroupID="15" />
+        <Player UID="4905343515728404" Name="zhenqin" Score="25" Application="true" Ready="true" GroupID="3" />
+        <Player UID="4623863694093587" Name="calvinhu" Score="25" Application="true" Ready="false" GroupID="11" />
+        <Player UID="4623864841909221" Name="v_qinglunli" Score="25" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4623863462454567" Name="tannerwang" Score="25" Application="true" Ready="true" GroupID="2" />
+        <Player UID="4905344168266441" Name="v_zhppeng" Score="25" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4623863040880381" Name="v_kebinwei" Score="25" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4905343022252040" Name="jonnymiao" Score="24" Application="true" Ready="true" GroupID="7" />
+        <Player UID="4623863758385937" Name="karryluo" Score="24" Application="true" Ready="true" GroupID="2" />
+        <Player UID="4905342538230824" Name="jhenryjiang" Score="24" Application="true" Ready="false" GroupID="2" />
+        <Player UID="4623864521184422" Name="frankfwu" Score="24" Application="true" Ready="true" GroupID="1" />
+        <Player UID="4623863371791172" Name="zhiwentan" Score="24" Application="true" Ready="true" GroupID="7" />
+        <Player UID="4623864307164481" Name="v_lijiezeng" Score="24" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4905343290776470" Name="reyyi" Score="24" Application="true" Ready="true" GroupID="3" />
+        <Player UID="4905343243377879" Name="archerwang" Score="24" Application="true" Ready="false" GroupID="1" />
+        <Player UID="4905343704287673" Name="lzzxzzhang" Score="24" Application="true" Ready="false" GroupID="2" />
+        <Player UID="4623864944220369" Name="kk" Score="24" Application="true" Ready="false" GroupID="999" />
+        <Player UID="4905343027893803" Name="v_zyyzzhao" Score="24" Application="true" Ready="false" GroupID="9" />
+        <Player UID="4623864089831973" Name="rivershen" Score="24" Application="true" Ready="true" GroupID="4" />
+        <Player UID="4905342480626879" Name="gershonchen" Score="23" Application="true" Ready="false" GroupID="3" />
+        <Player UID="4623863973128599" Name="v_bwwbyao" Score="23" Application="true" Ready="true" GroupID="14" />
+        <Player UID="4623864314450101" Name="lanceliao" Score="23" Application="true" Ready="true" GroupID="11" />
+        <Player UID="4623863062362788" Name="charlewu" Score="23" Application="true" Ready="true" GroupID="8" />
+        <Player UID="4905344071049296" Name="v_shuaigli" Score="23" Application="true" Ready="true" GroupID="19" />
+        <Player UID="4623863056794678" Name="teresadeng" Score="23" Application="true" Ready="true" GroupID="9" />
+        <Player UID="4623864557901069" Name="v_wqiangxie" Score="23" Application="true" Ready="false" GroupID="11" />
+        <Player UID="4623863658308884" Name="v_htwu" Score="23" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4623864723029268" Name="v_jqqjhe" Score="23" Application="true" Ready="false" GroupID="13" />
+        <Player UID="4623863494699736" Name="grayzhang" Score="23" Application="true" Ready="true" GroupID="21" />
+        <Player UID="4623864931495900" Name="gilbertgeng" Score="23" Application="true" Ready="true" GroupID="1" />
+        <Player UID="4905343814539331" Name="v_yuyuxia" Score="22" Application="true" Ready="true" GroupID="19" />
+        <Player UID="4623864437517093" Name="v_xuxinxu" Score="22" Application="true" Ready="true" GroupID="11" />
+        <Player UID="4905344189114254" Name="cicisluo" Score="22" Application="true" Ready="false" GroupID="13" />
+        <Player UID="4623864303708931" Name="artanisliu" Score="22" Application="true" Ready="false" GroupID="7" />
+        <Player UID="4905342669994993" Name="akirawu" Score="22" Application="true" Ready="true" GroupID="12" />
+        <Player UID="4623864751646241" Name="lucawang" Score="22" Application="true" Ready="false" GroupID="12" />
+        <Player UID="4623864776003816" Name="v_zmyzhao" Score="22" Application="true" Ready="true" GroupID="10" />
+        <Player UID="4623863032382880" Name="kirkli" Score="22" Application="true" Ready="true" GroupID="4" />
+        <Player UID="4623864788309329" Name="v_zhuqliu" Score="22" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4623863137667623" Name="v_lhhlali" Score="22" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4623863688719381" Name="joycedai" Score="22" Application="true" Ready="false" GroupID="15" />
+        <Player UID="4905344042524341" Name="fengkaiyu" Score="22" Application="true" Ready="true" GroupID="10" />
+        <Player UID="4905343670584819" Name="dannylin" Score="22" Application="true" Ready="true" GroupID="11" />
+        <Player UID="4623863286413889" Name="huberyxiao" Score="22" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4623863374158926" Name="v_yssywu" Score="22" Application="true" Ready="false" GroupID="19" />
+        <Player UID="4623865084293911" Name="v_xufbai" Score="21" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4623864625755438" Name="dennislai" Score="21" Application="true" Ready="false" GroupID="3" />
+        <Player UID="4905343846092646" Name="v_jjinzhou" Score="21" Application="true" Ready="false" GroupID="8" />
+        <Player UID="4905343418733415" Name="v_pttpguo" Score="21" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623863806428621" Name="teamodeng" Score="21" Application="true" Ready="true" GroupID="9" />
+        <Player UID="4623863321848736" Name="jonnyjiang" Score="21" Application="true" Ready="false" GroupID="15" />
+        <Player UID="4623865020182086" Name="vickydywang" Score="21" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4905343591537395" Name="v_yangqin" Score="21" Application="true" Ready="false" GroupID="14" />
+        <Player UID="4623863977164551" Name="jiayumeng" Score="21" Application="true" Ready="false" GroupID="10" />
+        <Player UID="4623863424866708" Name="yancyzeng" Score="21" Application="true" Ready="false" GroupID="14" />
+        <Player UID="4623864997609709" Name="v_jingzjing" Score="20" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623863677077340" Name="maricochen" Score="20" Application="true" Ready="false" GroupID="14" />
+        <Player UID="4623864562425505" Name="zaynexie" Score="20" Application="true" Ready="true" GroupID="8" />
+        <Player UID="4623863031815662" Name="evaxie" Score="20" Application="true" Ready="true" GroupID="8" />
+        <Player UID="4623864636877228" Name="cynzhang" Score="20" Application="true" Ready="false" GroupID="8" />
+        <Player UID="4623864141262406" Name="williamwsun" Score="20" Application="true" Ready="true" GroupID="7" />
+        <Player UID="4623864028642021" Name="remyhuang" Score="20" Application="true" Ready="false" GroupID="14" />
+        <Player UID="4623863924933677" Name="rowanliu" Score="20" Application="true" Ready="true" GroupID="10" />
+        <Player UID="4623863070415596" Name="leolzhang" Score="20" Application="true" Ready="true" GroupID="2" />
+        <Player UID="4905342678061732" Name="v_dqqdhan" Score="20" Application="true" Ready="true" GroupID="2" />
+        <Player UID="4905343332883191" Name="v_zhijianke" Score="20" Application="true" Ready="true" GroupID="18" />
+        <Player UID="4623863502512282" Name="rafaellu" Score="20" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623864301401345" Name="lunapeng" Score="20" Application="true" Ready="false" GroupID="8" />
+        <Player UID="4623863636784914" Name="liyun" Score="19" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4623864699266574" Name="yitongchen" Score="19" Application="true" Ready="false" GroupID="11" />
+        <Player UID="4623864713967296" Name="jasminhuang" Score="19" Application="true" Ready="false" GroupID="14" />
+        <Player UID="4623864111631698" Name="jinelluo" Score="19" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623863407452394" Name="maxjyhuang" Score="19" Application="true" Ready="true" GroupID="14" />
+        <Player UID="4623863015138748" Name="kingyhwang" Score="19" Application="true" Ready="true" GroupID="1" />
+        <Player UID="4623863714072387" Name="yuangzhang" Score="19" Application="true" Ready="true" GroupID="11" />
+        <Player UID="4905342571789826" Name="haleydu" Score="19" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4905343326214047" Name="v_pzazhang" Score="19" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4905342590282585" Name="v_sqqswang" Score="19" Application="true" Ready="false" GroupID="4" />
+        <Player UID="4905344184467225" Name="v_sqyu" Score="19" Application="true" Ready="false" GroupID="10" />
+        <Player UID="4905344045510127" Name="yavenchen" Score="19" Application="true" Ready="false" GroupID="19" />
+        <Player UID="4623863211121275" Name="eightxie" Score="19" Application="true" Ready="false" GroupID="12" />
+        <Player UID="4623864132275805" Name="v_jiajxiao" Score="19" Application="true" Ready="true" GroupID="19" />
+        <Player UID="4623864093635187" Name="blinkzhang" Score="19" Application="true" Ready="true" GroupID="21" />
+        <Player UID="4623864977444838" Name="ivesshan" Score="18" Application="true" Ready="false" GroupID="5" />
+        <Player UID="4905343815673564" Name="v_ldldxiang" Score="18" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623864560805528" Name="deanguo" Score="18" Application="true" Ready="true" GroupID="1" />
+        <Player UID="4623864615591656" Name="ethanxhuang" Score="18" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4623864319953166" Name="kenlexwang" Score="18" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623864450081239" Name="v_tqqttan" Score="18" Application="true" Ready="true" GroupID="10" />
+        <Player UID="4623863834599987" Name="jaumexiong" Score="18" Application="true" Ready="false" GroupID="6" />
+        <Player UID="4623863790576880" Name="longiunsxu" Score="18" Application="true" Ready="true" GroupID="13" />
+        <Player UID="4623863718052609" Name="lingzitian" Score="18" Application="true" Ready="false" GroupID="2" />
+        <Player UID="4623863644284614" Name="firoyang" Score="18" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4623864289001723" Name="joelzychen" Score="18" Application="true" Ready="false" GroupID="7" />
+        <Player UID="4623863520894392" Name="shawyu" Score="18" Application="true" Ready="true" GroupID="7" />
+        <Player UID="4623863084918178" Name="devinguo" Score="18" Application="true" Ready="false" GroupID="3" />
+        <Player UID="4623864277903729" Name="tnqiangren" Score="18" Application="true" Ready="true" GroupID="4" />
+        <Player UID="4623864998263641" Name="finnwbzhang" Score="17" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623863332421464" Name="kumali" Score="17" Application="true" Ready="false" GroupID="12" />
+        <Player UID="4623863237895210" Name="lemoniwang" Score="17" Application="true" Ready="true" GroupID="21" />
+        <Player UID="4623863225689487" Name="rainchen" Score="17" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4623863088729527" Name="emmahuang" Score="17" Application="true" Ready="false" GroupID="6" />
+        <Player UID="4623863938982311" Name="reyesgong" Score="17" Application="true" Ready="false" GroupID="16" />
+        <Player UID="4623864014810182" Name="selerdaxia" Score="17" Application="true" Ready="false" GroupID="5" />
+        <Player UID="4623864201806009" Name="jinelluo" Score="16" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623864212774735" Name="v_zyansun" Score="16" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623864932484914" Name="kunkunli" Score="16" Application="true" Ready="true" GroupID="10" />
+        <Player UID="4623863526978586" Name="robinliu" Score="16" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4905344203346514" Name="v_rongdeng" Score="16" Application="true" Ready="false" GroupID="3" />
+        <Player UID="4623864486246367" Name="lucianshi" Score="16" Application="true" Ready="false" GroupID="8" />
+        <Player UID="4905342838144434" Name="v_cggcguo" Score="16" Application="true" Ready="true" GroupID="17" />
+        <Player UID="4623864255282232" Name="yannideng" Score="16" Application="true" Ready="false" GroupID="9" />
+        <Player UID="4623864778212736" Name="lesterye" Score="16" Application="true" Ready="false" GroupID="8" />
+        <Player UID="4905343053273978" Name="v_lyylzhang" Score="15" Application="true" Ready="true" GroupID="19" />
+        <Player UID="4905343106804622" Name="v_ljunlli" Score="15" Application="true" Ready="true" GroupID="13" />
+        <Player UID="4905342521775591" Name="hedyyu" Score="15" Application="true" Ready="false" GroupID="18" />
+        <Player UID="4905342519923868" Name="v_scscchen" Score="15" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623863351773818" Name="danahuang" Score="15" Application="true" Ready="false" GroupID="7" />
+        <Player UID="4623863404504713" Name="ekouzhang" Score="15" Application="true" Ready="false" GroupID="13" />
+        <Player UID="4623863844654269" Name="v_cjzhuang" Score="15" Application="true" Ready="false" GroupID="13" />
+        <Player UID="4623864779722749" Name="v_zjjzli" Score="14" Application="true" Ready="true" GroupID="16" />
+        <Player UID="4623864482139572" Name="williammao" Score="14" Application="true" Ready="true" GroupID="4" />
+        <Player UID="4623865124126237" Name="saloutang" Score="13" Application="true" Ready="true" GroupID="7" />
+        <Player UID="4905343620708530" Name="v_sqqsli" Score="13" Application="true" Ready="false" GroupID="16" />
+        <Player UID="4623864963254315" Name="sammihe" Score="13" Application="true" Ready="true" GroupID="13" />
+        <Player UID="4905343024203538" Name="reinazhang" Score="13" Application="true" Ready="false" GroupID="19" />
+        <Player UID="4905342345175364" Name="xinyexu" Score="13" Application="true" Ready="true" GroupID="13" />
+        <Player UID="4905343444241851" Name="akaneliu" Score="13" Application="true" Ready="false" GroupID="12" />
+        <Player UID="4623864222145830" Name="koberuan" Score="13" Application="true" Ready="false" GroupID="12" />
+        <Player UID="4623864890759032" Name="sybilzhao" Score="12" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4905343654693119" Name="pipoxu" Score="12" Application="true" Ready="true" GroupID="4" />
+        <Player UID="4905343296455362" Name="enumayuan" Score="12" Application="true" Ready="true" GroupID="5" />
+        <Player UID="4623863106564055" Name="evatywang" Score="12" Application="true" Ready="true" GroupID="8" />
+        <Player UID="4905343791090623" Name="monetliu" Score="11" Application="true" Ready="false" GroupID="15" />
+        <Player UID="4905343588865865" Name="v_zhichhu" Score="10" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4905344262277328" Name="lishazhou" Score="10" Application="true" Ready="false" GroupID="15" />
+        <Player UID="4623864177613067" Name="zhongxubae" Score="8" Application="true" Ready="true" GroupID="16" />
+        <Player UID="4623864637122474" Name="catli" Score="8" Application="true" Ready="true" GroupID="17" />
+        <Player UID="4623863835068385" Name="v_kkangzhao" Score="8" Application="true" Ready="true" GroupID="14" />
+        <Player UID="4623863411379300" Name="birkinzhang" Score="7" Application="true" Ready="true" GroupID="14" />
+        <Player UID="4623864778240248" Name="illusionlin" Score="7" Application="true" Ready="true" GroupID="14" />
+        <Player UID="4905343063719371" Name="v_zhirwu" Score="7" Application="true" Ready="false" GroupID="17" />
+        <Player UID="4623863051470367" Name="v_cytcui" Score="7" Application="true" Ready="true" GroupID="6" />
+        <Player UID="4623863875592377" Name="jogqin" Score="5" Application="true" Ready="true" GroupID="14" />
+        <Player UID="4623864598341735" Name="sissli" Score="4" Application="true" Ready="false" GroupID="21" />
+        <Player UID="4623863119732526" Name="qianye" Score="3" Application="true" Ready="false" GroupID="15" />
+        <Player UID="4623864787620414" Name="bartko" Score="1" Application="true" Ready="false" GroupID="6" />
+        <Player UID="4905343255239145" Name="jackzheng" Score="0" Application="true" Ready="true" GroupID="15" />
+        <Player UID="4623863604790264" Name="yaroyan" Score="0" Application="true" Ready="true" GroupID="16" />
+    </PlayerInfo>
+</InnerMatch>

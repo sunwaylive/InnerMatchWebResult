@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+  <title>内部赛英雄榜</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+<div class="container">
+ <h1 align="center">内部赛--英雄榜</h1>
+
+<!-- Example single danger button -->
+<div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">比赛日期
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+  {% if latest_match_id_list %}
+    {% for match_id in latest_match_id_list %}
+    <li><a href="/match/{{match_id}}">{{ match_id }}</a></li>
+    {% endfor %}
+  {% endif %}
+  </ul>
+</div>
+
+<br>
+  <h3>团队榜</h3>
+<table class="table">
+<thead>
+      <tr>
+        <th>名次</th>
+        <th>团队名称</th>
+        <th>参与率</th>
+        <th>人均得分</th>
+      </tr>
+</thead>
+ {% load williamwsun_filter %} 
+{% if latest_group_list %}
+<tbody>
+{% for group in latest_group_list %}
+ <tr>
+  <td>{{ group.group_rank}} </td>
+  <td>{{ group.group_name}} </td>
+  <td>{{ group.group_join_rate|divide:100|floatformat:2}}% </td>
+  <td>{{ group.group_avg_score|floatformat:2}} </td>
+  <td>{{rate}} </td>
+ </tr>
+{% endfor %}
+</tbody>
+{% endif %}
+</table>
+
+
+<br>
+<br>
+<h3>个人榜</h3>
+<table class="table">
+<thead>
+      <tr>
+        <th>名次</th>
+        <th>姓名</th>
+        <th>总分</th>
+        <th>参与场次</th>
+        <th>参与率</th>
+        <th>总跑图时间</th>
+      </tr>
+</thead>
+
+{% if latest_player_list %}
+<tbody>
+{% for player in latest_player_list %}
+ <tr>
+  <td>{{ player.player_rank}} </td>
+  <td>{{ player.player_name}} </td>
+  <td>{{ player.player_total_score}} </td>
+  <td>{{ player.player_join_num}} </td>
+  <td>{{ player.player_join_rate|divide:100|floatformat:2}}% </td>
+  <td>{{ player.player_total_game_time}} </td>
+ </tr>
+{% endfor %}
+</tbody>
+{% endif %}
+
+</table>
+
+
+</div>
+</body>
+</html>
